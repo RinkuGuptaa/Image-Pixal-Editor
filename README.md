@@ -25,12 +25,6 @@ Handling the modal display for the enlarged image.
 Implementing a reset button to clear all filters and uploaded images.
 Allowing users to download the edited image and share it using the Web Share API.
 Saving the user's theme preference (dark/light mode) in local storage.
-Suggested README File for GitHub
-markdown
-Insert Code
-Edit
-Copy code
-# Image Pixel Editor
 
 ## Description
 
